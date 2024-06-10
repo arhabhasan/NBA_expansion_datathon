@@ -24,10 +24,10 @@ This project was undertaken by the DEVS team as part of the Smith Analytics Cons
 - `DEVS_Final_Visualization_Dashboard.twbx`: A Tableau workbook containing visualizations of the analysis results.
 - `SAC_Presentation.pdf`: A PowerPoint presentation summarizing the project, methodology, and final recommendations.
 - `Datathon_FINAL.ipynb`: A Jupyter notebook containing the code and analysis performed for the project.
-- `NBA_cities_data_for_model.xlsx`: Data used for training the machine learning models.
-- `NEW_recommended_cities.xlsx`: A spreadsheet with the final recommended cities for NBA expansion.
-- `NBA_Financial_data.xlsx`: Financial data used in the analysis.
-- `us_city_data.xlsx`: Data on various US cities used in the analysis.
+- `NBA_cities_data_for_model.xlsx`: Data used for training the machine learning models.(derived from the given dataset)
+- `NEW_recommended_cities.xlsx`: A spreadsheet with the final recommended cities for NBA expansion.(derived from the given dataset)
+
+
 
 ## Key Results
 
@@ -86,10 +86,9 @@ The analysis included the use of Random Forest machine learning model to identif
 ## References
 
 - Data sources include the U.S. Census Bureau, Forbes, and various sports viewership statistics.
-- Specific URLs and detailed references are included in the `Copy of SAC_Presentation.pptx` file.
+- Specific URLs and detailed references are included in the `SAC_Presentation.pdf` file.
 
 ## Contact
 
 For any questions or further information, please reach out to the DEVS team members.
 
----
