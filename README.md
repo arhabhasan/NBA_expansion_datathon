@@ -80,7 +80,8 @@ The analysis included the use of Random Forest machine learning model to identif
 
 ## Visual Assets
 
-![Kansas Tornadoes Logo](logo.jpg)
+<img src="logo.jpg" alt="Kansas Tornadoes Logo" width="500"/>
+
 ![NBA Social Media Followers](Instagram%2C%20Facebook%20and%20Twitter%20followers%20of%20NBA%20teams.png)
 
 ## References
